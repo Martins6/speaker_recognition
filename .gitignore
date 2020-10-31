@@ -1,3 +1,9 @@
+# VS Code
+*.code-workspace
+
+
+
+########################################## R ###############################################
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +43,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# R renv libraries
+renv/
