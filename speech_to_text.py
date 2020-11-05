@@ -10,7 +10,7 @@ while listen == True:
         r.adjust_for_ambient_noise(source)  # Eleminating the noise.
         audio = r.listen(source)  # Storing audio.
         print(type(audio))
-        with open("microphone-results.wav", "wb") as f:
+        with open("Data/microphone-results.wav", "wb") as f:
             f.write(audio.get_wav_data())
         pinger = r.recognize_google(audio)  # Converting speech to text
         print(pinger)

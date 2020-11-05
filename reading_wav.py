@@ -1,8 +1,8 @@
 from scipy.io import wavfile
 import winsound
 
-filename = 'microphone-results.wav'
+filename = 'Data/microphone-results.wav'
 winsound.PlaySound(filename, winsound.SND_FILENAME)
 
-filename1 = 'clean_microphone.wav'
+filename1 = 'Data/clean_microphone.wav'
 winsound.PlaySound(filename1, winsound.SND_FILENAME)
