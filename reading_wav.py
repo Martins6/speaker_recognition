@@ -1,4 +1,5 @@
 from scipy.io import wavfile
+# if you're on Windows
 import winsound
 
 filename = 'Data/microphone-results.wav'

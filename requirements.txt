@@ -1,0 +1,10 @@
+pyaudio
+SpeechRecognition
+
+pandas
+numpy
+scipy
+
+plotnine
+ipykernel
+nbconvert
