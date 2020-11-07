@@ -1,10 +1,17 @@
-pyaudio
+#pyaudio
 SpeechRecognition
 
 pandas
 numpy
 scipy
+librosa
 
 plotnine
+matplotlib
+
 ipykernel
 nbconvert
+
+#pytorch
+
+pathlib
