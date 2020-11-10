@@ -16,4 +16,4 @@ I hope to explore more the Fourier Transformation and Wavelets for the feature e
 
 ## Acknowledgment
 
-Jurgen Arias has documented a similar project very well. It has really helped this project of mine kickstart.
+Jurgen Arias has documented a similar [project](https://github.com/jurgenarias/Portfolio) very well. It has really helped this project of mine kickstart.
