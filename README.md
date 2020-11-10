@@ -4,7 +4,7 @@ Project to recognize voices with Neural Networks with Python. The main purpose o
 
 ## Data preparation
 
-The dataset that this project uses comes soley from the [LibriSpeech](http://www.openslr.org/12/). The files are very well organized. I've build two Juypter Notebooks to process the dataset first as a set of files with each speaker id (_LibriSpeech_Files_Pre_Processing.ipynb_), and then to extract features from their voices (_Signal_Feature_Extraction.ipynb_). You can define hyperparameters in order to prepare more data automatically. In the most recent run, I've used 100 different speakers with 30 seconds of audio recordings from each, approximately.
+The dataset that this project uses comes soley from the [LibriSpeech](http://www.openslr.org/12/). The files are very well organized. I've build two Juypter Notebooks to process the dataset first as a set of files with each speaker id (_LibriSpeech_Files_Pre_Processing.ipynb_), and then to extract features from their voices (_Signal_Feature_Extraction.ipynb_). You can define hyperparameters in order to prepare more data automatically. In the most recent run, I've used 30 different speakers with 30 seconds of audio recordings from each, approximately.
 
 ## Neural Network Model
 
