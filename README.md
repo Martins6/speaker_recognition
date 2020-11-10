@@ -1,6 +1,6 @@
 # Voice Recognition
 
-Project to recognize voices with Neural Networks with Python. The main purpose of this project is to explore the capabilities of Neural Networks and the extraction of features from signals in order to recognize different voices. This project was born out of the idea to build the hability of an virtual assistant to recognize solely your own voice. This idea came to me when contributing to the [Jarvis](https://github.com/sukeesh/Jarvis) open-source project, which is an virtual assistant for desktop.
+Project to recognize voices with Neural Networks with Python. The main purpose of this project is to explore the capabilities of Neural Networks and the extraction of features from signals in order to recognize different voices. This project was born out of the idea to build the hability to a virtual assistant to recognize solely your own voice. This idea came to me when contributing to the [Jarvis](https://github.com/sukeesh/Jarvis) open-source project, which is an virtual assistant for desktop.
 
 ## Data preparation
 
@@ -8,7 +8,7 @@ The dataset that this project uses comes soley from the [LibriSpeech](http://www
 
 ## Neural Network Model
 
-I've choosen to model the features extracted from the signal through dense layer Neural networks (a.k.a Deep Learning) so far I was able to achieve a 72% accuracy. I'm trying to avoid feeding a whole lot of data and exploring how to achieve more with less. 
+I've choosen to model the features extracted from the signal through dense layer Neural networks (a.k.a Deep Learning) so far I was able to achieve a 84% accuracy. I'm trying to avoid feeding a whole lot of data and exploring how to achieve more with less. 
 
 ## Future Works and Contribution
 
